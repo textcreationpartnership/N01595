@@ -113,8 +113,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:001896_0000_0FB9D5C7606F1DA8"/>
-            <pb facs="tcp:001896_0001_0FB9D5C86E9429F0" rendition="simple:additions"/>
+            <pb facs="unknown:001896_0000_0FB9D5C7606F1DA8"/>
+            <pb facs="unknown:001896_0001_0FB9D5C86E9429F0"
+                rendition="simple:additions"/>
             <p>A brief ACCOUNT of the STATE of the Province OF THE <hi>Maſſachuſetts-Bay</hi> IN <hi>New-England,</hi> Civil <hi>and</hi> Eccleſiaſtical.</p>
             <p>By a Lover of his Country.</p>
             <p>
@@ -123,19 +124,19 @@
       </front>
       <body>
          <div type="account">
-            <pb n="2" facs="tcp:001896_0002_0FB9D5CA056E6568"/>
+            <pb n="2" facs="unknown:001896_0002_0FB9D5CA056E6568"/>
             <head>A brief Account of the State of the Province of the <hi>Maſſachuſetts-Bay</hi> in <hi>New-England,</hi> Civil and Eccleſiaſtical.</head>
             <p>IT was not very long after the beginning of the former <hi>Century,</hi> That a conſiderable Num<g ref="char:EOLhyphen"/>ber of the Subject of the Crown of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> by the Allowance, and under the Countenance and Protection of the Supream Authority, did Tranſplant themſelves, Families and Eſtates into the remote Regions of <hi>America.</hi>
             </p>
             <p>THESE firſt Planters were known to be Per<g ref="char:EOLhyphen"/>ſons not only of approved Piety to GOD, but of ex<g ref="char:EOLhyphen"/>emplary Loyalty to the Throne and Government they belonged to, and brought theſe Principles of affection and duty to their Prince into theſe His diſtant Dominions, and their care was to tranſmit the ſame Loyal Principles and Spirit to their Poſterity.</p>
             <p>TO encourage and ſtrengthen them to ſub<g ref="char:EOLhyphen"/>mit to the many Toils, Hazards and vaſt Ex<g ref="char:EOLhyphen"/>pence in Subduing and Planting a Wilderneſs. They were favoured with the Royal Grant of a CHARTER, by which they were veſted with ſeveral Powers, Liberties, and Priviledges for their good Order and Government.</p>
             <p>UNDER the Protection of the Royal CHAR<g ref="char:EOLhyphen"/>TER,
-<pb n="3" facs="tcp:001896_0003_0FB9D5CB91EE7058"/>
+<pb n="3" facs="unknown:001896_0003_0FB9D5CB91EE7058"/>
 in which they intirely confided for the ſecurity of the Liberties therein granted, they were animated chearfully to undergo, unknown Perils and Hardſhips, which were unavoidable in their firſt Plantations: By which a valuable acceſſion has been made to the <hi>Britiſh</hi> Domi<g ref="char:EOLhyphen"/>nions, and the Commerce of <hi>Great Britain</hi> en<g ref="char:EOLhyphen"/>larged, without any Charge to the Crown.</p>
             <p>IN the latter end of the Reign of King <hi>Charles</hi> the Second, this <hi>Charter</hi> was vacated by a Judgment in the High Court of <hi>Chancery,</hi> which Judgment was reſpited till the Reign of King <hi>James</hi> the Second, when this Corporation were disfranchiſed, and actually diveſted of all the Powers, Liberties &amp; Priviledges that had been granted to them.</p>
             <p>AFTER the happy Revolution thoſe Glori<g ref="char:EOLhyphen"/>ous Princes King <hi>WILLIAM</hi> &amp; Queen <hi>MARY</hi> of Immortal Memory, were pleaſed in their Princely Wiſdom and Grace, by their Royal CHARTER to Unite, and Erect into One Pro<g ref="char:EOLhyphen"/>vince the Colonies of the <hi>Maſſachuſetts-Bay, New-Plymouth, &amp;c.</hi> by the Name of the Pro<g ref="char:EOLhyphen"/>vince of the <hi>Maſſachuſetts-Bay</hi> in <hi>New-England,</hi> which was to be Governed by a Governour, Council and Aſſembly.</p>
             <p>BY this Royal CHARTER many valuable Priviledges and Immunities are veſted in the Body of the People inhabiting ſaid Province, their Properties ſecured, and all the Immuni<g ref="char:EOLhyphen"/>ties and Liberties of natural Subjects born in
-<pb n="4" facs="tcp:001896_0004_0FB9D5CDB17BBD68"/>
+<pb n="4" facs="unknown:001896_0004_0FB9D5CDB17BBD68"/>
 the Realm of <hi>England,</hi> are granted and affirm<g ref="char:EOLhyphen"/>ed to them.</p>
             <p>HEREBY alſo Powers are veſted in the Ge<g ref="char:EOLhyphen"/>neral Aſſembly of Electing Annually ſuch as ſhall aſſiſt in Council, to Conſtitute and Settle all Civil Officers, under certain Reſtrictions and Reſervations: To Erect Courts of Judi<g ref="char:EOLhyphen"/>cature, To Levy Taxes upon ſaid Inhabitants for the Support of the Government, and De<g ref="char:EOLhyphen"/>fence of the Province. And to make Laws from time to time not repugnant to the Laws of <hi>England,</hi> for the good Government of the Subjects.</p>
             <p>IN the preſent Conſtitution of the Govern<g ref="char:EOLhyphen"/>ment of the ſaid Province by its preſent CHAR<g ref="char:EOLhyphen"/>TER, effectual Proviſion is made to maintain their intire dependence on, and to ſecure in all points the Rights and Prerogatives of the Crown.</p>
@@ -144,13 +145,13 @@ the Realm of <hi>England,</hi> are granted and affirm<g ref="char:EOLhyphen"/>ed
             <p>ALL Judges and Juſtices, of a Superiour and Inferiour Order, and Sheriffs, to whom the Exe<g ref="char:EOLhyphen"/>cution of the Laws are Entruſted, are nominated and appointed by the Governour, with the Ad<g ref="char:EOLhyphen"/>vice and Conſent of his Majeſty's Council.</p>
             <p>THE Governour has a Negative upon all Laws, Elections, and Acts of Government of the General Aſſembly and Council.</p>
             <p>
-               <pb n="5" facs="tcp:001896_0005_0FB9D5CF38115138"/>ALL Laws Enacted by the General Aſſembly and approved of by the Governour are to be tranſmitted Home for the Royal Approbation and if diſallowed within the ſpace of Three Years, to be utterly void.</p>
+               <pb n="5" facs="unknown:001896_0005_0FB9D5CF38115138"/>ALL Laws Enacted by the General Aſſembly and approved of by the Governour are to be tranſmitted Home for the Royal Approbation and if diſallowed within the ſpace of Three Years, to be utterly void.</p>
             <p>HIS Majeſty's Liege People of this Province have ſince the Enjoyment of their preſent CHAR<g ref="char:EOLhyphen"/>TER been expoſed to many inconceivable Hard<g ref="char:EOLhyphen"/>ſhips by two long and bloody Wars with the bar<g ref="char:EOLhyphen"/>barous Salvages, in which with great Unanimity and Alacrity, they have defended theſe His Ma<g ref="char:EOLhyphen"/>jeſty's Dominions with great Expence of Blood and Treaſure.</p>
             <p>THE Inhabitants of this Province have al<g ref="char:EOLhyphen"/>ways had a juſt value for their Civil Liberties. But the free and ſecure Enjoyment of their Reli<g ref="char:EOLhyphen"/>gious Priviledges, has ever been moſt dear to them: and eſteem'd a plentiful Reward of all the Dangers and Difficulties they have been ſtrugling with, from their firſt Plantation to this Day.</p>
             <p>THE firſt Planters of theſe His Majeſty's Ter<g ref="char:EOLhyphen"/>ritories, were as to their Perſwaſion in Religion, ſuch as in the <hi>Engliſh</hi> Nation were called Puritans, who deſired and ſought, what was in their ap<g ref="char:EOLhyphen"/>prehenſion a further Reformation, in point of Diſcipline, and Worſhip.</p>
             <p>THAT they and their Poſterity after them might Enjoy the Liberty of their Conſciences in theſe Points, and Worſhip GOD according to their beſt Light, with leſs hazard to themſelves and leſs offence to others, They ſought a place of reſt in theſe remote Regions.</p>
             <p>
-               <pb n="6" facs="tcp:001896_0006_0FB9D5D19D395A90"/>NOTWITHSTANDING their conſcientious diſſent from the Church of <hi>England</hi> in ſome leſſer Points, yet in their Removal they paid all juſt Regards to Her, they dutifully askt her Prayers and Bleſſing in their Settlement, &amp; heartily prayed for the Proſperity of Religion in her Communion.</p>
+               <pb n="6" facs="unknown:001896_0006_0FB9D5D19D395A90"/>NOTWITHSTANDING their conſcientious diſſent from the Church of <hi>England</hi> in ſome leſſer Points, yet in their Removal they paid all juſt Regards to Her, they dutifully askt her Prayers and Bleſſing in their Settlement, &amp; heartily prayed for the Proſperity of Religion in her Communion.</p>
             <p>BY the Care and Zeal of theſe firſt Planters, the Kingdom of CHRIST was firſt Planted in theſe His Majeſty's diſtant Dominions, Churches Erected in their ſeveral Towns &amp; Plantations, in which the Goſpel is Diſpenſed, &amp; the Ordinances of GOD's Houſe, Adminiſtred, without any Terms of Communion, but what according to their beſt <hi>Light,</hi> were plainly preſcribed in the <hi>Word of GOD.</hi>
             </p>
             <p>THE Doctrines of Faith profeſſed in theſe Churches are entitely <hi>Proteſtant,</hi> moſt agreeable to the Doctrinal Articles and Homilies of the Church of <hi>England,</hi> and to the Confeſſions of the Reformed Churches abroad.</p>
@@ -159,7 +160,7 @@ the Realm of <hi>England,</hi> are granted and affirm<g ref="char:EOLhyphen"/>ed
             <p>THE Uſe and Power of Eccleſiaſtical Councils &amp; Synods is here acknowledged, &amp; the Right not only of the Churches, but alſo the Power of the Civil Government to Convocate ſuch Aſſem<g ref="char:EOLhyphen"/>blies, when the neceſſities of the Churches ſhall call for them, is Aſſerted.</p>
             <p>IT is required that the Paſtors of theſe Chur<g ref="char:EOLhyphen"/>ches, be Perſons of approved Sanctity of Life,
 <pb n="7"
-                   facs="tcp:001896_0007_0FB9D5D3B5AC6AE0"
+                   facs="unknown:001896_0007_0FB9D5D3B5AC6AE0"
                    rendition="simple:additions"/>
 Orthodoxy in the Faith, of good Learning and known Miniſterial Abilities: Theſe are Elected by the People, They take the Charge of; &amp; are ſet apart to the Paſtoral Office, by the Impoſi<g ref="char:EOLhyphen"/>tion of the hands of the <hi>Presbytery.</hi>
             </p>
@@ -168,7 +169,7 @@ Orthodoxy in the Faith, of good Learning and known Miniſterial Abilities: Theſ
             <p>THESE Churches, tho' not formed in all points, in exact Conformity to the Eſtabliſht Church of <hi>South-Britain,</hi> yet have their Conſtitution and Priviledges ſecured to them, not barely, by an Act of Toleration, but a Legal Approbation and Eſtabliſhment.</p>
             <p>MANY good Laws have been Enacted by the Go<g ref="char:EOLhyphen"/>vernour and Aſſembly, by which theſe Churches are Protected &amp; Encouraged in the peaceable and regular Profeſſion &amp; Practice of their Religious Priviledges, their Form of Worſhip, Church Order &amp; Diſcipline. By which alſo the Method of Calling &amp; Setling Mi<g ref="char:EOLhyphen"/>niſters in the ſeveral Congregations through the Pro<g ref="char:EOLhyphen"/>vince, is Legally ſtated and eſtabliſhed, and Legal Proviſion made for the Honourable Support and
 <pb n="8"
-                   facs="tcp:001896_0008_0FB9D5D5EEA87D10"
+                   facs="unknown:001896_0008_0FB9D5D5EEA87D10"
                    rendition="simple:additions"/>
 Maintenance of the Miniſters thus Called &amp; Setled.</p>
             <p>ALL which Laws have been Confirmed, by the Approbation and Sanction of the Crown in the Glo<g ref="char:EOLhyphen"/>rious Reign of King <hi>WILLIAM</hi> of Bleſſed Memory.</p>
